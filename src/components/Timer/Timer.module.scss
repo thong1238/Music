@@ -1,0 +1,42 @@
+.timer {
+    height: 384px;
+    width: var(--width);
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    position: fixed;
+    bottom: -42px;
+    width: var(--width);
+    background-color: #333;
+    z-index: 2;
+    h5 {
+        font-weight: 300;
+        margin: 20px 0 0 20px;
+        font-size: 24px;
+    }
+    .exit {
+        position: relative;
+        right: -347px;
+        top: -37px;
+        cursor: pointer;
+        width: 40px;
+        font-size: 35px;
+    }
+
+    .timeoff {
+        padding-left: 16px;
+        font-size: 24px;
+        color: #fff;
+        list-style: none;
+        width: 390px;
+        height: 280px;
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        position: relative;
+    }
+}
+.hide {
+    display: none;
+}

@@ -1,0 +1,23 @@
+.wrapper {
+    height: 60px;
+    width: var(--width);
+}
+
+.list-navbar {
+    color: #fff;
+    font-size: 20px;
+    display: flex;
+    position: absolute;
+    width: var(--width);
+    align-items: center;
+    justify-content: space-between;
+    h5 {
+        margin: 15px 0 0 20px;
+        font-weight: 300;
+    }
+    .exit {
+        margin: 15px 20px 0 0;
+        cursor: pointer;
+        font-size: 25px;
+    }
+}
