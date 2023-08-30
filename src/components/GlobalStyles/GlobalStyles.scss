@@ -3,7 +3,7 @@
 
 :root {
     --primary: #fff;
-    --height: 720px;
+    --height: 716px;
     --width: 390px;
 }
 * {
@@ -12,6 +12,7 @@
     box-sizing: border-box;
 }
 html {
+    font-size: 62.5%;
 }
 body {
     font-family: 'Montserrat', sans-serif;
