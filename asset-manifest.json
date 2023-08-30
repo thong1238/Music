@@ -1,0 +1,42 @@
+{
+  "files": {
+    "main.css": "/Music/static/css/main.e8f26f45.css",
+    "main.js": "/Music/static/js/main.13049cc6.js",
+    "static/js/787.514cbbf0.chunk.js": "/Music/static/js/787.514cbbf0.chunk.js",
+    "static/media/13.jpg": "/Music/static/media/13.a549ecdf4d594a35f0b4.jpg",
+    "static/media/8.jpg": "/Music/static/media/8.0e4d61f1be938d229014.jpg",
+    "static/media/12.jpg": "/Music/static/media/12.c75042af8bb568762bc9.jpg",
+    "static/media/1.jpg": "/Music/static/media/1.a13d632db6656715cf22.jpg",
+    "static/media/2.jpg": "/Music/static/media/2.a830738da8bb365ac49c.jpg",
+    "static/media/9.jpg": "/Music/static/media/9.ac0a335e1e05bbdf2adb.jpg",
+    "static/media/7.jpg": "/Music/static/media/7.eb22325c044b3598b42f.jpg",
+    "static/media/14.jpg": "/Music/static/media/14.b79169bd701817937c19.jpg",
+    "static/media/11.jpg": "/Music/static/media/11.337d6fe287c7649c95af.jpg",
+    "static/media/3.jpg": "/Music/static/media/3.5df2013fd265357bd8a2.jpg",
+    "static/media/4.jpg": "/Music/static/media/4.d781a6af3fbe81adbf72.jpg",
+    "static/media/10.jpg": "/Music/static/media/10.1fca34084741ca24eeee.jpg",
+    "static/media/1.mp3": "/Music/static/media/1.11ee9b00b47d2ee0a120.mp3",
+    "static/media/10.mp3": "/Music/static/media/10.11ee9b00b47d2ee0a120.mp3",
+    "static/media/11.mp3": "/Music/static/media/11.11ee9b00b47d2ee0a120.mp3",
+    "static/media/12.mp3": "/Music/static/media/12.11ee9b00b47d2ee0a120.mp3",
+    "static/media/13.mp3": "/Music/static/media/13.11ee9b00b47d2ee0a120.mp3",
+    "static/media/14.mp3": "/Music/static/media/14.11ee9b00b47d2ee0a120.mp3",
+    "static/media/2.mp3": "/Music/static/media/2.11ee9b00b47d2ee0a120.mp3",
+    "static/media/3.mp3": "/Music/static/media/3.11ee9b00b47d2ee0a120.mp3",
+    "static/media/4.mp3": "/Music/static/media/4.11ee9b00b47d2ee0a120.mp3",
+    "static/media/5.mp3": "/Music/static/media/5.11ee9b00b47d2ee0a120.mp3",
+    "static/media/6.mp3": "/Music/static/media/6.11ee9b00b47d2ee0a120.mp3",
+    "static/media/7.mp3": "/Music/static/media/7.11ee9b00b47d2ee0a120.mp3",
+    "static/media/8.mp3": "/Music/static/media/8.11ee9b00b47d2ee0a120.mp3",
+    "static/media/9.mp3": "/Music/static/media/9.11ee9b00b47d2ee0a120.mp3",
+    "static/media/6.jpg": "/Music/static/media/6.97d12417a6f1c25b9395.jpg",
+    "index.html": "/Music/index.html",
+    "main.e8f26f45.css.map": "/Music/static/css/main.e8f26f45.css.map",
+    "main.13049cc6.js.map": "/Music/static/js/main.13049cc6.js.map",
+    "787.514cbbf0.chunk.js.map": "/Music/static/js/787.514cbbf0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e8f26f45.css",
+    "static/js/main.13049cc6.js"
+  ]
+}
